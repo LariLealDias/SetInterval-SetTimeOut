@@ -28,15 +28,18 @@ body{
 }
 
 #content{
-    border:2px solid rgb(50, 0, 177);
-    margin-top: 50px;
+    border:2px solid rgb(27, 7, 77);
     height: 100px;
     width: 500px;
     text-align: center;
-    margin: 50px 50px 50px 120px;
+    margin: 50px 50px 50px 260px;
 }
 #content p{
     color: antiquewhite;
+}
+#count{
+    margin-top: 20px;
+    font-size: 30px;
 }
 
 
