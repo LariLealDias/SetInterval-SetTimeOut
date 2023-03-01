@@ -11,7 +11,8 @@ Treino de ambas funções em JS
 ## 📄  Descrição
 Este repositório contém alguns treinos sobre os métodos SetInterval e SetTimeOut.
 O foco foi desenvolver a lógica em Javascript, por isso o CSS se encontra simples, mas funcional.
-A descrição de cada exercicio está em minhas anotações: encr.pw/Notion-anotacoes-setTimeout-e-setInterval
+A descrição de cada exercicio está em minhas anotações: 
+https://talented-gray-8e7.notion.site/SetInterval-e-setTimeout-7d661c28e943493b8d7cd3249e8e777e
 
 <br><br>
 ## 👩‍💻 Autora
