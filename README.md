@@ -1,6 +1,6 @@
 # SetInterval-SetTimeOut
 Treino de ambas funções em JS
-x
+
 ## Recursos:
 ![Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
