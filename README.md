@@ -26,3 +26,4 @@ Larissa Leal
 ![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <br>
 https://www.linkedin.com/in/larissa-leal-dias-408455157/
 
+c
